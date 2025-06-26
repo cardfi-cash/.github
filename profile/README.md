@@ -9,6 +9,14 @@
 CardFi is a cutting-edge decentralized platform enabling the issuance of encrypted prepaid cards across multiple blockchain networks. Our mission is to expand the existing DeFi ecosystem by building a seamless fiat currency downstream layer for real-world spending.
 
 ---
+# Demo Protocol 🚀
+
+- [Movecash](https://movecash.top/)
+  - First Defi crypto prepaid card on Aptos .
+
+- [Moneropan Bot](http://t.me/moneropan_bot)
+  - Anonymouse crypto prepaid card support Monero ecosystem . 
+---
 
 ## Key Features 🎇
 
